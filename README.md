@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
+  <img alt="NLW Copa" src=".github/copa.svg" />
 </p>
 
 <p align="center">
-  <img src="copa.svg" alt="NLW 10 - Copa" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=10&color=F7DD43&labelColor=202024" alt="NLW 10 - Copa" />
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
@@ -52,5 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <p align="center">
   <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
 </p>
-
 
